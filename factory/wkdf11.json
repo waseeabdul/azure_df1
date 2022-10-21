@@ -1,0 +1,9 @@
+{
+	"name": "wkdf11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4a514da-5b7b-4ac7-92a9-b2d467ea423f",
+		"tenantId": "61f48af2-c204-49d4-b797-b7eb59182068"
+	}
+}
